@@ -1,17 +1,17 @@
 *{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-  }
-  
-  body {
-    min-height: 100vh;
-    padding: 50px 20px;
-    font-family: 'Lato', Helvetica, Arial, sans-serif;
-    font-size: 18px;
-    background-color: #4f4ff3;
-    color: #f5f6f7;
-  }
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  padding: 50px 20px;
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  background-color: #4f4ff3;
+  color: #f5f6f7;
+}
   
   main {
     display: flex;
