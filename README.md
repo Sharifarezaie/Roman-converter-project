@@ -12,6 +12,7 @@ List the technologies or tools that i used to develop this project.
 Javascript
 HTML
 CSS
+
 ## Installation 💻
 for using this project you need to install 3 things:
 
